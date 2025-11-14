@@ -11,8 +11,17 @@ A comprehensive repository of clinical data science and health analytics project
 
 ---
 
+## 📖 About
+
+Comprehensive collection of 8 clinical data science and health analytics projects focusing on disease prediction, risk stratification, and treatment pattern analysis using advanced machine learning algorithms and statistical modeling.
+
+**Portfolio**: [https://nana-safo-duker.github.io/](https://nana-safo-duker.github.io/)
+
+---
+
 ## 📋 Table of Contents
 
+- [About](#-about)
 - [Overview](#overview)
 - [Research Projects](#research-projects)
 - [Technologies & Tools](#technologies--tools)
